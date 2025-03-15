@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akif Emre Köşüş.
 - 👀 I’m student at Bilkent University department of CS.
-- 🌱 I’m currently learning Java.
 
 
 <!---
